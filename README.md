@@ -13,3 +13,8 @@ NONE ARE CONVERTED YET, THESE ARE FRESH TO BE CONVERTED TO BE USED!
 /DLCImages - dlc images, maybe for the storefront..?
 
 also ill dig into seeing what more i can get out of this but thats all for now
+
+
+# For those here to port!!!
+
+languages.loc is missing ALL skin information and needs to be manually editted in using PCK Studio or some other software idk what else does this - https://github.com/LCERD/PCK-Studio/tree/main
